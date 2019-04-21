@@ -1,8 +1,7 @@
-# xml-test
-Proyecto prueba con spring boot para cargar un xml desde una ruta.
+# Demo de pagos
+Proyecto prueba con spring boot para realizar pagos vis REST
 
-Cuenta tambien con servicios de administracion de producto via REST.
 
-MySql AWS, se necesita activar la instancia.
+MySql
 
 V1.0
